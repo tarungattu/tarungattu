@@ -33,13 +33,13 @@ Interactive UI for warehouse layout design + backend publised scheduling engine.
 
 ## Experience
 
-### **Bosch Automotive Electronics India Pvt. Ltd. Bengaluru, India — Data Science Research Intern (2025)**  
+### **Bosch Automotive Electronics India Pvt. Ltd. Bengaluru, India — Software Engineering Intern (2025)**  
 - Developed Genetic Algorithm for production planning & PM scheduling  
 - Achieved **20× faster** performance than LP solvers on 100+ job instances  
 - Forecasted spare part demand with **MAE under 12%** using Python + SQL  
 - Built internal applications following SDLC and Agile practices
 
-### **Center for Automation & Robotics Research | KLE Technological University, Hubballi, India — Undergraduate Researcher (2024)**  
+### **Center for Automation & Robotics Research | KLE Technological University, Hubballi, India — Software Engineer - Lead UG Researcher (2024)**  
 - Built decentralized multi-agent system using **ROS2 + SPADE**  
 - Reduced loading/unloading dock wait time by **40%**  
 - Implemented scheduling algorithms achieving **up to 300× speedup**  
